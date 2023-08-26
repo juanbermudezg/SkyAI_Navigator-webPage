@@ -1,4 +1,4 @@
-# SkyAI_Navigator
+# SkyAI Navigator
 ## A SENA project
 [Juan Bermudez's GitHub](https://github.com/juanbermudezg)
 
